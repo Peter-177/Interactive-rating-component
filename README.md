@@ -27,7 +27,3 @@ This project focuses on practicing basic DOM manipulation, user interaction hand
 - JavaScript
 
 ---
-
-## Acknowledgments
-
-Challenge provided by **Frontend Mentor** — a great platform for improving front-end skills.
